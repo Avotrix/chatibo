@@ -1,2 +1,0 @@
-# chatibo
-chatibo pkg
